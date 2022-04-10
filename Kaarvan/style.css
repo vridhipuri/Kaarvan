@@ -1,12 +1,23 @@
+h2{
+    font-family: 'Babylonica', cursive;
+    text-align: center;
+    font-size: 100px;
+    margin: 0%;
+}
 
-body {font-family: Arial, Helvetica, sans-serif}
-* {box-sizing: border-box;}
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+* {
+    box-sizing: border-box;
+}
 
 .bg-img {
   /* The image used */
-  background-image: url("img_nature.jpg");
+  background-image: url("pics_dsn/holi-2416686.jpg");
 
-  min-height: 380px;
+  width: 100%;
 
   /* Center and scale the image nicely */
   background-position: center;
